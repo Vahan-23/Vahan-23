@@ -10,6 +10,9 @@ I'm a FrontEnd developer building with React, HTML, CSS , Python , JavaScript.
 
 - [**LinkedIn**](https://www.linkedin.com/in/vahan-galstyan-2862b4223/)
 
+- [**Upwork**](https://www.upwork.com/freelancers/~0184ef5fe70f7db408)
+
+- [**Profound Academy**](https://profound.academy/hy/users/i5F38yxoq2VH3bZF5mWYUgKXtWI2)
 ********
 
   
