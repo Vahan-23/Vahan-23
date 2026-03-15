@@ -1,4 +1,4 @@
-![gif](programming.gif)
+![gif](programing.gif)
 
 ## **Hey, I'm Vahan!** 👋
 
